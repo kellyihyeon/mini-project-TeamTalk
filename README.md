@@ -12,7 +12,7 @@
 - 맡은 기능:
     - 프로젝트 API, DB 설계 
     - Spring Security + Jwt 토큰(Bearer 타입)을 이용한 로그인, 회원가입 기능
-    - AWS EC2, RDS를 이용하여 서버 
+    - AWS EC2, RDS를 이용하여 서버 배포
 - 개발 기간: 2주 
     - 21.04.09(Fri) ~ 21.04.22(Thu)
 - 시연 영상: [teamtalk](https://kelly-tech.tistory.com/39)

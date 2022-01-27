@@ -1,6 +1,7 @@
 # **TeamTalk - MiniProject**
 
 ![Team_Talk](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbeXV9b%2Fbtq3uccFChP%2FtsDx2EIEkBO1Erf4TKzbX0%2Fimg.png)
+<br>
 `팀 프로젝트를 효율적으로 작업하기 위한 관리 도구`
 
 ---

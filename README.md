@@ -1,11 +1,19 @@
 # **TeamTalk - MiniProject**
 
+![Team_Talk](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbeXV9b%2Fbtq3uccFChP%2FtsDx2EIEkBO1Erf4TKzbX0%2Fimg.png)
 `팀 프로젝트를 효율적으로 작업하기 위한 관리 도구`
 
 ---
 
 ## 개요
-- 개발 기간 [2주] : 21.04.09(Fri) ~ 21.04.22(Thu)
+- 개발 인원: 2명
+    - 백엔드(강이현, Spring), 프론트엔드(문형원, React Native)
+- 맡은 기능:
+    - 프로젝트 API, DB 설계 
+    - Spring Security + Jwt 토큰(Bearer 타입)을 이용한 로그인, 회원가입 기능
+    - AWS EC2, RDS를 이용하여 서버 
+- 개발 기간: 2주 
+    - 21.04.09(Fri) ~ 21.04.22(Thu)
 - 시연 영상: [teamtalk](https://kelly-tech.tistory.com/39)
 <br>
 
